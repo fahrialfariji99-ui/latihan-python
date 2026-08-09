@@ -1,0 +1,18 @@
+nip = input("NIP : ")
+idrestorasi = ("idrestorvasi")
+namamu = input("Namamu :")
+alamat = input("Alamat :")
+nokatp = int(input("No KTP : "))
+notelepon = int(input("No Telp : "))
+
+print("\it")
+print("Data Pesan Kamar")
+tanggal_cekin = input("Tanggal Cekin :")
+tanggal_cekout = input("Tanggal CekOut :")
+lamainp =input("Lama Menginap")
+tipekamar =input("Tipe Kamar")
+nomor_kamar =int(input("Nomor Kamar"))
+
+print("\it")
+print("---------------- BUKTI RESERVASI--------------- ")
+print("Data Tamu")
